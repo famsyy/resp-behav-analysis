@@ -1,4 +1,7 @@
 # resp-behav-analysis
+NOTE:: This code is best viewed by downloading and viewing in R Studio. 
+
+
 The code contained in this analysis is a combination of different packages and functions from different authors. None are obscured and if any aspect of the analysis is used - please cite the respective authors of the packages used when and where appropriate.
 
 CODE DESCRIPTION
